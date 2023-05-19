@@ -1,4 +1,5 @@
-
+# 👾 Melvin Mathai
+Hi 👋, I  am a computer science student at Sri Ac Achuthemenon College and I am Interested in software development 👨‍💻 and technologies.
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/MELVIN#4408) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/melvin_mathai__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Melvin Mathai) 
 
